@@ -1,4 +1,4 @@
-body {background-repeat: no-repeat; background-size: cover;}
+body {background-repeat: no-repeat; background-size: contain;}
 .ba {background-color: grey;}
 .bb {background-color: aqua;}
 .one {color:aqua;}
