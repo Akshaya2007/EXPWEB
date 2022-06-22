@@ -15,12 +15,15 @@ a:hover {
   }
 .b {color:white; font-size: larger}
 .c {color: black; font-size: xx-large;}
-td {color: gold;}
+td {color: orange;}
 .ha {color: blue;}
 .ta {color: aqua;}
 .mg {height: 75px;}
-.tc {font-size: medium; color: gold;}
+.tc {font-size: medium; color: orange;}
 .bodya {color: aqua; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
 h1 {color:lime; border-style: solid; border-color: yellow;}
 .forma {color: aqua; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 h2 {color: yellow; border-style: solid; border-color: lime;}
+.td1 {color: gold;}
+.td2 {color: silver;}
+.td3 {color: brown;}
