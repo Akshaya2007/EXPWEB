@@ -17,9 +17,9 @@ a:hover {
 .c {color: black; font-size: xx-large;}
 td {color: orange;}
 .ha {color: blue;}
-.ta {color: aqua;}
+.ta {color: aqua; text-align: center;}
 .mg {height: 75px;}
-.tc {font-size: medium; color: orange;}
+.tc {font-size: medium; color: orange; text-align: center;}
 .bodya {color: aqua; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
 h1 {color:lime; border-style: solid; border-color: yellow;}
 .forma {color: aqua; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
